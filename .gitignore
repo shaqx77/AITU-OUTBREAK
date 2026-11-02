@@ -1,0 +1,14 @@
+/build/
+/.vs/
+__pycache__/
+*.pyc
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.bmp
+/demo.rgb
+/error.log
+/self-test.txt
+/benchmark.csv
+/CMakeUserPresets.json

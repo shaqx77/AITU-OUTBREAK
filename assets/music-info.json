@@ -1,0 +1,19 @@
+{
+  "outbreak.wav": {
+    "title": "C1.3 No One Answers",
+    "seconds": 48,
+    "style": "slow horror ambience",
+    "original": true
+  },
+  "restored.wav": {
+    "title": "354 First Light",
+    "bpm": 108,
+    "bars": 16,
+    "original": true
+  },
+  "menu.wav": {
+    "title": "AITU Midnight Signal",
+    "seconds": 40,
+    "original": true
+  }
+}
