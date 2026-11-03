@@ -1,6 +1,12 @@
 # AITU OUTBREAK 0.11
 
-Start **AITU-OUTBREAK.exe**. Keep **GameData** beside it. The current English release, resources and editable source are included.
+### [Download AITU:OUTBREAK 0.11 for Windows](https://github.com/shaqx77/AITU-OUTBREAK/raw/refs/heads/main/AITU-OUTBREAK.exe)
+
+Download **AITU-OUTBREAK.exe** using the link above, then double-click it on Windows 10/11 x64. **Only this one file is needed to play.** No separate JSON files, GameData folder, archive, installer or development tools are needed. The game runs on Windows after downloading; GitHub displays the project and hosts the download.
+
+All maps, textures, shaders and sounds are embedded in the executable. On launch, the game prepares and verifies its resources automatically in `%LOCALAPPDATA%\AITU-OUTBREAK\Runtime`. Missing or damaged cached resources are restored from the executable. An OpenGL 3.3-capable graphics driver is required.
+
+**GameData** contains the editable source and original resources for development. The current release and all in-game text are in English.
 
 You arrive early for Discrete Mathematics in room 361. **Duman Adilet** guards the door while you investigate. Recover three ingredients and meet **Kamila Batkuldinova** in safe classroom 354.
 
@@ -47,5 +53,7 @@ ctest --test-dir build -C Release --output-on-failure
 ```
 
 The game uses native OpenGL 3.3 core and external GLSL shaders. F2 exposes a perspective camera, depth testing, face culling and movable lighting. The 2D game uses room lighting, circular visibility and post-processing. Required library and asset notices are in **GameData/THIRD_PARTY.md**.
+
+Windows builds embed the complete resource bundle automatically. To test edited resources without rebuilding the bundle, launch with `--external-assets`; this development option loads `GameData/assets` or `assets` beside the executable. Normal launches always use the embedded resources.
 
 Team: Yerassyl Altynbayev, Nurali Amangeldi, Daniyar Urazbayev. Groups: IT-2504 / IT-2503.

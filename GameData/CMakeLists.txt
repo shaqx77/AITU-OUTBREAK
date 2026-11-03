@@ -14,7 +14,18 @@ add_executable(AITU_OUTBREAK src/main.cpp)
 set_target_properties(AITU_OUTBREAK PROPERTIES OUTPUT_NAME "AITU-OUTBREAK")
 if(WIN32)
   enable_language(RC)
+  file(GLOB_RECURSE RUNTIME_ASSETS CONFIGURE_DEPENDS "${CMAKE_CURRENT_SOURCE_DIR}/assets/*")
+  set(RUNTIME_BUNDLE "${CMAKE_CURRENT_BINARY_DIR}/runtime-assets.zip")
+  add_custom_command(OUTPUT "${RUNTIME_BUNDLE}"
+    COMMAND ${CMAKE_COMMAND} -E tar cf "${RUNTIME_BUNDLE}" --format=zip -- .
+    WORKING_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/assets"
+    DEPENDS ${RUNTIME_ASSETS}
+    COMMENT "Embedding complete game resources"
+    VERBATIM)
+  add_custom_target(AITU_RuntimeAssets DEPENDS "${RUNTIME_BUNDLE}")
+  add_dependencies(AITU_OUTBREAK AITU_RuntimeAssets)
   configure_file(src/app.rc.in ${CMAKE_CURRENT_BINARY_DIR}/app.rc @ONLY)
+  set_source_files_properties("${CMAKE_CURRENT_BINARY_DIR}/app.rc" PROPERTIES OBJECT_DEPENDS "${RUNTIME_BUNDLE}")
   target_sources(AITU_OUTBREAK PRIVATE ${CMAKE_CURRENT_BINARY_DIR}/app.rc)
 endif()
 target_include_directories(AITU_OUTBREAK PRIVATE vendor vendor/glm)
