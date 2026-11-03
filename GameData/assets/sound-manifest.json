@@ -230,27 +230,6 @@
     "rms": 0.0481,
     "sha256": "1bca4d5051c1929ad4a133648b7ee4bf68de021803be2349d23bf55102b1773e"
   },
-  "mop-pickup.wav": {
-    "category": "original action Foley",
-    "seconds": 0.24,
-    "peak": 0.3392,
-    "rms": 0.0495,
-    "sha256": "8eedc58398a3040396c67a0081c716f0316a142508272154ecd8c9bb499a2bf9"
-  },
-  "mop-swing.wav": {
-    "category": "original action Foley",
-    "seconds": 0.27,
-    "peak": 0.2804,
-    "rms": 0.0506,
-    "sha256": "03af19179ca6b18611bbc561ac908bbc039ce6ffa140a818fcdd4cfa7ce8c756"
-  },
-  "mop-hit.wav": {
-    "category": "original action Foley",
-    "seconds": 0.25,
-    "peak": 0.5097,
-    "rms": 0.0653,
-    "sha256": "2025239c8d48d218b77690ac0bf2572ebcbf685e2764df7c4765616212c720c9"
-  },
   "retry.wav": {
     "category": "original action Foley",
     "seconds": 0.5,
@@ -434,5 +413,26 @@
     "rms": 0.1371,
     "sha256": "23f0fc7ddf9918e303834e8e0b0e368286ef2138593487e8b2da9549a84033d3",
     "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "baton-pickup.wav": {
+    "category": "original action Foley",
+    "seconds": 0.24,
+    "peak": 0.3392,
+    "rms": 0.0495,
+    "sha256": "8eedc58398a3040396c67a0081c716f0316a142508272154ecd8c9bb499a2bf9"
+  },
+  "baton-swing.wav": {
+    "category": "original action Foley",
+    "seconds": 0.27,
+    "peak": 0.2804,
+    "rms": 0.0506,
+    "sha256": "03af19179ca6b18611bbc561ac908bbc039ce6ffa140a818fcdd4cfa7ce8c756"
+  },
+  "baton-hit.wav": {
+    "category": "original action Foley",
+    "seconds": 0.25,
+    "peak": 0.5097,
+    "rms": 0.0653,
+    "sha256": "2025239c8d48d218b77690ac0bf2572ebcbf685e2764df7c4765616212c720c9"
   }
 }

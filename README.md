@@ -10,12 +10,18 @@ All maps, textures, shaders and sounds are embedded in the executable. On launch
 
 You arrive early for Discrete Mathematics in room 361. **Duman Adilet** guards the door while you investigate. Recover three ingredients and meet **Kamila Batkuldinova** in safe classroom 354.
 
+**New Game** starts with a character creator: male/female character, five skin tones, four hair options and four clothing colours. The selected appearance is used in gameplay and student dialogue portraits, and is saved for the next launch. Use W/S to select a row, A/D to change it, or use the mouse. Enter begins the opening scene; Escape returns to the menu.
+
+The yellow **GOAL** banner shows your current task and a location hint. Follow the yellow floor chevrons through doors and corridors; the active object gets a gold marker, including on the phone map. Large campus signs identify laboratories, the archive, service room and safe classroom. Numbered lockers make personal locker **08** easy to find.
+
 - **Block 3:** collect your phone and bag, unlock the lecture hall, watch the recording, read the cold-storage protocol and recover the culture base. Use the local access card to leave.
 - **Block 2:** repair four power circuits, read the filtration protocol and set the filter, buffer and pressure valves to recover the stabilizer.
 - **Block 1:** find the archive laboratory, calibrate its scanner over three sweeps and recover the catalyst.
 - **Room 354:** blend stabilizer, culture base and catalyst, connect the cartridge, select ALL BLOCKS and start ventilation. Kamila thanks you after everyone is cured.
 
-Read protocol cards, search supply lockers, inspect offices, distract patrols with bottles and use the mop for temporary defence. Collected ingredients and repaired circuits survive checkpoint retries.
+Open locker **08** with PIN **2008** to collect your phone, bag and **three empty glass bottles**. Q or right-click throws a bottle toward the cursor to distract patrols. The small **security post inside the block-3 service room** contains a spare baton, CCTV console and guard's shift log. Take the baton with E; G or Space temporarily stuns a nearby infected person, followed by a short cooldown.
+
+Read protocol cards, search supply lockers and inspect offices. The archive has research shelves, records cabinets, a catalogue workstation and preservation notes that explain how to recover the catalyst. Collected ingredients and repaired circuits survive checkpoint retries.
 
 ## Controls
 
@@ -28,7 +34,7 @@ Read protocol cards, search supply lockers, inspect offices, distract patrols wi
 | 1 / 2 / 3 on phone Home | Chat / tasks / map |
 | A / D in phone; H; M | Tabs; Home; map overview |
 | Q / right mouse | Throw a bottle toward the cursor |
-| G / Space | Stun a nearby infected person after collecting the mop |
+| G / Space | Stun a nearby infected person after collecting the security baton |
 | F | Flashlight |
 | Escape, then R | Pause, then retry checkpoint |
 | E / Enter / Space in dialogue | Reveal text, then continue |
