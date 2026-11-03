@@ -1,0 +1,438 @@
+{
+  "step-0.wav": {
+    "category": "original action Foley",
+    "seconds": 0.19,
+    "peak": 0.159,
+    "rms": 0.0254,
+    "sha256": "76401427bc7949b442a8dd5e50d982ef8f119872b7345cf87215b742ac1daa42"
+  },
+  "step-1.wav": {
+    "category": "original action Foley",
+    "seconds": 0.19,
+    "peak": 0.1856,
+    "rms": 0.0262,
+    "sha256": "3db0ee631a794e5b4e60906b05ebd1bb3e34aa5baed0f87c4a27e847fb14f381"
+  },
+  "step-2.wav": {
+    "category": "original action Foley",
+    "seconds": 0.19,
+    "peak": 0.1716,
+    "rms": 0.0249,
+    "sha256": "c0d1606c162f637d6bb6d07c4ff55ea5eece85f4d09203935c1889f65ac0cf04"
+  },
+  "door-open.wav": {
+    "category": "original action Foley",
+    "seconds": 0.32,
+    "peak": 0.3914,
+    "rms": 0.057,
+    "sha256": "cb61b2cdb993ab43ca74c8e3f7b2ceb58ea4c2e5572d29bbe1604f46a6b15b97"
+  },
+  "door-close.wav": {
+    "category": "original action Foley",
+    "seconds": 0.28,
+    "peak": 0.449,
+    "rms": 0.0572,
+    "sha256": "2846facddf8be7e50af98a161dc31aa4951934a7d4487cefe27c64e1634b80aa"
+  },
+  "locker-open.wav": {
+    "category": "original action Foley",
+    "seconds": 0.5,
+    "peak": 0.3649,
+    "rms": 0.0465,
+    "sha256": "6479df3a1217a085279582741fffb96aba48ffbdcb04777e7a21e381e96ef5ff"
+  },
+  "keys.wav": {
+    "category": "original action Foley",
+    "seconds": 0.55,
+    "peak": 0.289,
+    "rms": 0.0285,
+    "sha256": "244f5814f1d6cc0c3a15d9b56e46378038b393df3c01415798ec6e313b07177d"
+  },
+  "keys-error.wav": {
+    "category": "original action Foley",
+    "seconds": 0.25,
+    "peak": 0.246,
+    "rms": 0.0311,
+    "sha256": "1141a37938adc82466c3592d8fd8d19ce270994bb931b3a8fdfe82a730f124a2"
+  },
+  "pin-error.wav": {
+    "category": "original action Foley",
+    "seconds": 0.4,
+    "peak": 0.0834,
+    "rms": 0.0234,
+    "sha256": "85850f905a2bc6c12ab05fecd95cc652fd76f7af8ab7e1d43d2e9757ceec5f79"
+  },
+  "switch.wav": {
+    "category": "original action Foley",
+    "seconds": 0.125,
+    "peak": 0.2899,
+    "rms": 0.0365,
+    "sha256": "c25b2a8f40f509e0a9b7db057ebceb58cb2d4914f3b76b77fdebf82b5ecc4444"
+  },
+  "channel.wav": {
+    "category": "original action Foley",
+    "seconds": 0.2,
+    "peak": 0.0712,
+    "rms": 0.023,
+    "sha256": "545f08c13110965cf4d32c9c8517ffb70da42bda4f2165396d7ad1d381651e4c"
+  },
+  "card-pickup.wav": {
+    "category": "original action Foley",
+    "seconds": 0.25,
+    "peak": 0.3028,
+    "rms": 0.042,
+    "sha256": "58a3872d215a670751ee9b95c06d2d6ad568c58d0786bd5d5c04f957bb3a3ecf"
+  },
+  "swipe-ok.wav": {
+    "category": "original action Foley",
+    "seconds": 0.39,
+    "peak": 0.1352,
+    "rms": 0.0363,
+    "sha256": "1bce2e0ebcd92cc082afab11b2448e3696634a3705cb5b785a228f96c0cd0628"
+  },
+  "swipe-fail.wav": {
+    "category": "original action Foley",
+    "seconds": 0.33,
+    "peak": 0.1185,
+    "rms": 0.0346,
+    "sha256": "e72d3f822b8631e60a5546c0fa08893cf0138e3818ee8e2a919ab30cfefbf806"
+  },
+  "pc-unlock.wav": {
+    "category": "original action Foley",
+    "seconds": 0.39,
+    "peak": 0.1477,
+    "rms": 0.0449,
+    "sha256": "366001842d82f02ec0c2b62010be0f2d2943115f40919635b7939593eca4e5fc"
+  },
+  "pc-error.wav": {
+    "category": "original action Foley",
+    "seconds": 0.27,
+    "peak": 0.1142,
+    "rms": 0.0393,
+    "sha256": "968d669063b247c5e76158c964394120d7b4c5c34dac0e3adbf7bb8c99221d7f"
+  },
+  "ui.wav": {
+    "category": "original action Foley",
+    "seconds": 0.07,
+    "peak": 0.0715,
+    "rms": 0.0215,
+    "sha256": "1e66bc51519954e172468afb848ba673b6243ed12d00d22065b7d2a20faddc98"
+  },
+  "reply.wav": {
+    "category": "original action Foley",
+    "seconds": 0.165,
+    "peak": 0.0802,
+    "rms": 0.0233,
+    "sha256": "471c7ba1b44d02b5a5d15503670d1f8bab9e13077eb7e9c40e3a90946152a2a2"
+  },
+  "notification.wav": {
+    "category": "original action Foley",
+    "seconds": 0.47,
+    "peak": 0.1289,
+    "rms": 0.0332,
+    "sha256": "f5c26f7b984229ad914bd7ebce31185b8dfa81496b04eec0c9aa03a898307e2c"
+  },
+  "paper.wav": {
+    "category": "original action Foley",
+    "seconds": 0.35,
+    "peak": 0.2479,
+    "rms": 0.029,
+    "sha256": "be6991da4129ec8490cf94994aaed021be635d770fcda96b3fc5518bfc9b9cfe"
+  },
+  "files.wav": {
+    "category": "original action Foley",
+    "seconds": 0.44,
+    "peak": 0.2691,
+    "rms": 0.0372,
+    "sha256": "13d0203d9d4ac506024913e13d7aa99a16f7dc78f7c2a227f249e26b0e5b8372"
+  },
+  "keyboard.wav": {
+    "category": "original action Foley",
+    "seconds": 0.317,
+    "peak": 0.3146,
+    "rms": 0.0307,
+    "sha256": "50e99f0356594fbd388818d0994a668543bb2ca56a1df34f794d6cfbf35a32d9"
+  },
+  "printer.wav": {
+    "category": "original action Foley",
+    "seconds": 0.8,
+    "peak": 0.2278,
+    "rms": 0.0334,
+    "sha256": "7bf7f056c7c4876ce144ea2e5d12516c7b92d717970817ce82a805547888af61"
+  },
+  "water.wav": {
+    "category": "original action Foley",
+    "seconds": 0.62,
+    "peak": 0.0691,
+    "rms": 0.021,
+    "sha256": "77f6d18621074c3939a1893a38b92c758310767c92ed63ec5400a9aced4af74e"
+  },
+  "server.wav": {
+    "category": "original action Foley",
+    "seconds": 0.7,
+    "peak": 0.1285,
+    "rms": 0.0326,
+    "sha256": "1157e30ef5a91f5bb860414d324b0dad5fe1d5c10339ac171a6df1d8441bd6b7"
+  },
+  "vending.wav": {
+    "category": "original action Foley",
+    "seconds": 0.8,
+    "peak": 0.3151,
+    "rms": 0.0446,
+    "sha256": "2d6a5bf82e37ad652c185f867e067867c92c1ad7da858aee9f07b1b95f68bc1a"
+  },
+  "power.wav": {
+    "category": "original action Foley",
+    "seconds": 0.9,
+    "peak": 0.537,
+    "rms": 0.0494,
+    "sha256": "c381859cf206feef2fd4c187bdf451eaa5adcc3b4d75a5651608429a857bc29e"
+  },
+  "cartridge.wav": {
+    "category": "original action Foley",
+    "seconds": 0.25,
+    "peak": 0.275,
+    "rms": 0.0421,
+    "sha256": "49cfe55f6fdcf816eac86719333485bb76dfaaf3ebb277f8c0234e0a305be7ec"
+  },
+  "vent.wav": {
+    "category": "original action Foley",
+    "seconds": 1.8,
+    "peak": 0.2769,
+    "rms": 0.059,
+    "sha256": "b221918bf8fe1296575f463951d82d7fb0d63cb5648f2fa0cd033511b7d5ca6a"
+  },
+  "projector.wav": {
+    "category": "original action Foley",
+    "seconds": 0.65,
+    "peak": 0.1453,
+    "rms": 0.0301,
+    "sha256": "9e03b493b7aef790092aa9fb2e9e834928e4cf783c09773c9fdd455f866af33c"
+  },
+  "camera.wav": {
+    "category": "original action Foley",
+    "seconds": 0.24,
+    "peak": 0.4099,
+    "rms": 0.0293,
+    "sha256": "60728f3a5fef601d1a42f5c0fa5f19f84b72ae2702065685cf429e7d16e76fad"
+  },
+  "bottle-throw.wav": {
+    "category": "original action Foley",
+    "seconds": 0.22,
+    "peak": 0.1043,
+    "rms": 0.0196,
+    "sha256": "300c05c71c818c4a0fa0f0d21058ba268e4bfd1f17c44dd1f649bbaef34b4e4e"
+  },
+  "impact.wav": {
+    "category": "original action Foley",
+    "seconds": 0.674,
+    "peak": 0.6044,
+    "rms": 0.0481,
+    "sha256": "1bca4d5051c1929ad4a133648b7ee4bf68de021803be2349d23bf55102b1773e"
+  },
+  "mop-pickup.wav": {
+    "category": "original action Foley",
+    "seconds": 0.24,
+    "peak": 0.3392,
+    "rms": 0.0495,
+    "sha256": "8eedc58398a3040396c67a0081c716f0316a142508272154ecd8c9bb499a2bf9"
+  },
+  "mop-swing.wav": {
+    "category": "original action Foley",
+    "seconds": 0.27,
+    "peak": 0.2804,
+    "rms": 0.0506,
+    "sha256": "03af19179ca6b18611bbc561ac908bbc039ce6ffa140a818fcdd4cfa7ce8c756"
+  },
+  "mop-hit.wav": {
+    "category": "original action Foley",
+    "seconds": 0.25,
+    "peak": 0.5097,
+    "rms": 0.0653,
+    "sha256": "2025239c8d48d218b77690ac0bf2572ebcbf685e2764df7c4765616212c720c9"
+  },
+  "retry.wav": {
+    "category": "original action Foley",
+    "seconds": 0.5,
+    "peak": 0.1454,
+    "rms": 0.0399,
+    "sha256": "473c961216e1391d72f09fe929f9ed7bdb03b91bceb3b12f8e7197079cf9968f"
+  },
+  "blackout.wav": {
+    "category": "original action Foley",
+    "seconds": 0.675,
+    "peak": 0.4632,
+    "rms": 0.0342,
+    "sha256": "695616519700eb4c35d1fae70f6bbc2a8f0cdfa4ed1607157e650fc95db5e18a"
+  },
+  "spark.wav": {
+    "category": "original action Foley",
+    "seconds": 0.16,
+    "peak": 0.279,
+    "rms": 0.0224,
+    "sha256": "3cef7d62f481c8ae091464cf04bf4ca43357f869dc2d602ddea0f14ebf024542"
+  },
+  "celebrate.wav": {
+    "category": "original action Foley",
+    "seconds": 1.06,
+    "peak": 0.1901,
+    "rms": 0.0414,
+    "sha256": "0b4d3d259e86434a702de3d0d02e2a76c637e4002459eae4ddf4dc8ff08692dd"
+  },
+  "murmur-student-0.wav": {
+    "category": "Original retro RPG dialogue blip: student",
+    "seconds": 0.045,
+    "peak": 0.3203,
+    "rms": 0.1039,
+    "sha256": "43ab1186d34376627bb12a2f37ac032cc7ad86d77e6e2d971d521ef97adcb28e",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-student-1.wav": {
+    "category": "Original retro RPG dialogue blip: student",
+    "seconds": 0.048,
+    "peak": 0.3203,
+    "rms": 0.108,
+    "sha256": "69dc2bfd5075fd99d91b215bc3b6640160d8d964f208394fcfe3f2658280dacb",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-student-2.wav": {
+    "category": "Original retro RPG dialogue blip: student",
+    "seconds": 0.051,
+    "peak": 0.3204,
+    "rms": 0.1117,
+    "sha256": "9a7346b76daf08052bb0ecbb86d1506b2198210b2af455c33662e60671c732ec",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-teacher-0.wav": {
+    "category": "Original retro RPG dialogue blip: teacher",
+    "seconds": 0.045,
+    "peak": 0.3203,
+    "rms": 0.0984,
+    "sha256": "53a6a27ed3fe1a1da7678d9eb0791a883e7eecafd568b90dffd1aca39c3a367c",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-teacher-1.wav": {
+    "category": "Original retro RPG dialogue blip: teacher",
+    "seconds": 0.048,
+    "peak": 0.3203,
+    "rms": 0.102,
+    "sha256": "c6ea332f61d4d93fc13a1753ccc211fdfd38bd27968d9cd32d193ea413d21eb4",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-teacher-2.wav": {
+    "category": "Original retro RPG dialogue blip: teacher",
+    "seconds": 0.051,
+    "peak": 0.3202,
+    "rms": 0.1067,
+    "sha256": "c901eb2c000c0585e71b44244224296defb2142d0d836bba507887efe33861f0",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-biologist-0.wav": {
+    "category": "Original retro RPG dialogue blip: biologist",
+    "seconds": 0.045,
+    "peak": 0.3203,
+    "rms": 0.0808,
+    "sha256": "02bd66b9862122ad98ea6cc342bae06ac150b9bfb9464c90ab0b74cdc19831f8",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-biologist-1.wav": {
+    "category": "Original retro RPG dialogue blip: biologist",
+    "seconds": 0.048,
+    "peak": 0.3203,
+    "rms": 0.0833,
+    "sha256": "580d19e4a4a108aeac318923e5281677290df05932b32a970a9ab2dc7281571f",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-biologist-2.wav": {
+    "category": "Original retro RPG dialogue blip: biologist",
+    "seconds": 0.051,
+    "peak": 0.3203,
+    "rms": 0.0865,
+    "sha256": "7e4b241879e02dc0b689c7559d2403dda2cee0ce707acc9705ee24411bc797fd",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "zombie-spot-0.wav": {
+    "category": "recorded mouth/creature grunt; CC0 rubberduck",
+    "seconds": 0.481,
+    "peak": 0.5798,
+    "rms": 0.1281,
+    "sha256": "bddb93d51dea92a6890a9add5459403a54014eca0f1292fe8759cf84aa665cd1",
+    "source": "grunt_01.ogg"
+  },
+  "zombie-spot-1.wav": {
+    "category": "recorded mouth/creature grunt; CC0 rubberduck",
+    "seconds": 0.448,
+    "peak": 0.5801,
+    "rms": 0.239,
+    "sha256": "37a3d65482a744fd675664af6659fa3759c6e1dc15a76b6ccd4c11d31c892985",
+    "source": "grunt_02.ogg"
+  },
+  "zombie-spot-2.wav": {
+    "category": "recorded mouth/creature grunt; CC0 rubberduck",
+    "seconds": 0.257,
+    "peak": 0.587,
+    "rms": 0.1442,
+    "sha256": "87e1a980813113f4672e4a7456b1429d9bffe282915c00e32196d7ca2fb7ab6c",
+    "source": "grunt_03.ogg"
+  },
+  "outbreak.wav": {
+    "category": "original slow horror ambience",
+    "seconds": 48.0,
+    "peak": 0.69,
+    "rms": 0.2176,
+    "sha256": "6790b62bc134a8f9ebafef1e527f03315ffbe57dac5897a2f95acdbb41e0ba6c"
+  },
+  "restored.wav": {
+    "category": "original loop: hopeful synthwave",
+    "seconds": 35.556,
+    "peak": 0.73,
+    "rms": 0.1345,
+    "sha256": "5fa0d455acbdb83bd786d62935a5fd573cec966503aaed65e7383f1c8337dcba"
+  },
+  "menu.wav": {
+    "category": "original neon menu loop",
+    "seconds": 40.0,
+    "peak": 0.6904,
+    "rms": 0.1294,
+    "sha256": "0782eb9a3676225216a39d634961930bc2282a890d6b0bb86cb761dedeaf24fc"
+  },
+  "menu-ui.wav": {
+    "category": "original menu selection",
+    "seconds": 0.11,
+    "peak": 0.106,
+    "rms": 0.0225,
+    "sha256": "d166533cfad081ecc36a01b0bcab1a6a98e53d3c27f180231365a5cbed5bee3c"
+  },
+  "crowd-cheer.wav": {
+    "category": "Original layered synthetic cheering crowd",
+    "seconds": 2.5,
+    "peak": 0.3187,
+    "rms": 0.0612,
+    "sha256": "3b9d57dde085867f0825fd18a79617fc63363efb525cfcc4f75f072cc9638eb5",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-kamila-0.wav": {
+    "category": "Original retro RPG dialogue blip: kamila",
+    "seconds": 0.045,
+    "peak": 0.3204,
+    "rms": 0.125,
+    "sha256": "dd371da1af88d1cab57994721c7de80e6499db8d4f16ce3299de4aa9137329ef",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-kamila-1.wav": {
+    "category": "Original retro RPG dialogue blip: kamila",
+    "seconds": 0.048,
+    "peak": 0.3203,
+    "rms": 0.1308,
+    "sha256": "49bb91a4c1cb16a8cdc49bb662c1fada11f6cdd4911e19b53810cdb86d269f76",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  },
+  "murmur-kamila-2.wav": {
+    "category": "Original retro RPG dialogue blip: kamila",
+    "seconds": 0.051,
+    "peak": 0.3203,
+    "rms": 0.1371,
+    "sha256": "23f0fc7ddf9918e303834e8e0b0e368286ef2138593487e8b2da9549a84033d3",
+    "source": "Original procedural synthesis: tools/retro_voice_upgrade.py"
+  }
+}

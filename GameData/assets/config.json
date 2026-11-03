@@ -1,0 +1,14 @@
+{
+  "playerSpeed": 90,
+  "quietSpeed": 52,
+  "zombieSpeed": 21,
+  "chaseSpeed": 40,
+  "visionRange": 132,
+  "suspicionSeconds": 1.25,
+  "professor": "Duman Adilet",
+  "course": "Computer Graphics",
+  "chaseMemory": 1.0,
+  "startFullscreen": true,
+  "finalProfessor": "Kamila Batkuldinova",
+  "language": "en"
+}

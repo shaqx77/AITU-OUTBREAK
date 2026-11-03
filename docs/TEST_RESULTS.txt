@@ -1,6 +1,0 @@
-PASS v1.0: external shader files, perspective campus, depth/culling, movable light, effect/pause/help toggles; four-wire puzzle, wrong pair rejection, partial repair checkpoint, delayed cure and map zoom, assisted G stun, opposite ends to shared center, staggered center arrivals over 170s, native fullscreen/window roundtrip, mop pickup/checkpoint, stun/recovery/cooldown, wall and facing checks, distinct character murmurs, sound manifest, portrait map zoom, reverse binary password, PIN, notification, reply/ignore, phone tabs, no chat spoilers, service key rack and clue, wrong key rejection, key 18 selection, locked lecture, split lab, video notes, swipe prerequisites, fast/slow rejection and timed keyboard swipe, local block-3 gate, backup power, all new rooms, collision-aware full route, emergency lamps, separated patrols, gas rescue, teacher approach, ending, walls, slow zombies, bottle flight, expanded checkpoints
-
-CTest: PASS
-Negative resource tests: missing texture and invalid GLSL produce stderr diagnostics and nonzero exit.
-All six report pages rendered and visually inspected.
-Backup video: 60 seconds, 640x360, 20 FPS, H.264/AAC.

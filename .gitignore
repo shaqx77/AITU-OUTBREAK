@@ -7,8 +7,9 @@ __pycache__/
 *.obj
 *.lib
 *.bmp
-/demo.rgb
+/GameData/Logs/
 /error.log
 /self-test.txt
 /benchmark.csv
+/desktop.ini
 /CMakeUserPresets.json
