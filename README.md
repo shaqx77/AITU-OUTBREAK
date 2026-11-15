@@ -52,11 +52,21 @@ Wire panel: drag matching wires, or choose a left row then a right row with 1–
 Windows 10/11 x64, OpenGL 3.3-capable driver. Rebuilding needs CMake 3.20+, Visual Studio 2022 C++ build tools and a Windows SDK. C++17 dependencies are bundled.
 
 ```powershell
-cmake -S GameData -B build -A x64
+cmake -S GameData -B build -G "Visual Studio 17 2022" -A x64
 cmake --build build --config Release --parallel 4
 ctest --test-dir build -C Release --output-on-failure
 .\build\Release\AITU-OUTBREAK.exe --windowed
 ```
+
+## Project defence
+
+- [Project demonstration on YouTube](https://youtu.be/Prf7u6-7YL8)
+- Run `.\build\Release\AITU-OUTBREAK.exe --demo` to open the 3D campus in a window with automatic animation paused. Press **B** to compare lighting from the same viewpoint. Use **J/L** to move the light and **WASD** to orbit while animation is paused. Press **P** to resume automatic motion, **F1** for help, or **Enter** to start playing.
+- The 3D campus is an interactive inspection mode. It uses the map and actor positions at entry. The gameplay simulation runs in the 2D mode. The 3D point light changes surface shading without casting geometry shadows.
+- Run `--benchmark` for 3D lighting OFF/ON and `--benchmark-gameplay` for the fixed 2D starting scene. The 2D benchmark advances ten seconds of simulation with the player idle and renders completed frames at 1280×720 with VSync disabled. It does not measure a full playthrough or performance on a different computer.
+- Benchmarks and startup diagnostics are written to the runtime bundle's `Logs` directory. Startup failures are also printed to the terminal.
+
+For the live defence, show the lighting comparison first, then demonstrate the mission and a checkpoint. Check the official assignment sheet for the exact required technique. Run the submitted build on the lab PC, verify the video opens while signed out, and have every team member explain a dedicated part of the project.
 
 The game uses native OpenGL 3.3 core and external GLSL shaders. F2 exposes a perspective camera, depth testing, face culling and movable lighting. The 2D game uses room lighting, circular visibility and post-processing. Required library and asset notices are in **GameData/THIRD_PARTY.md**.
 
